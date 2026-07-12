@@ -80,7 +80,7 @@ Step 40/60  |  Loss: 0.6432  |  Grad Norm: 0.312
 Step 60/60  |  Loss: 0.3814  |  Grad Norm: 0.198
 🎯 SFT training loop successfully completed. Weights saved to: stage2_peft_adapter/
 
-### Stage 3 DPO Alignment Trajectory
+**### Stage 3 DPO Alignment Trajectory**
 ```text
 Step 05/30  |  Loss: 0.6931  |  Rewards/chosen: 0.124  |  Rewards/rejected: -0.045
 Step 15/30  |  Loss: 0.4210  |  Rewards/chosen: 0.482  |  Rewards/rejected: -0.312
