@@ -1,1 +1,99 @@
+Credit cards are revolving credit instruments issued by financial institutions, allowing cardholders to borrow funds up to a pre-approved credit limit to execute transactions. Interest is charged on the remaining balance if the statement amount is not paid in full by the designated due date.
 
+Debit cards are payment cards linked directly to a cardholder's checking or savings account. Unlike credit cards, transactions made via debit cards deduct funds instantly from the account balance, meaning users cannot spend money they do not possess.
+
+The Annual Percentage Rate (APR) represents the yearly interest rate charged on credit card balances. It incorporates the base prime rate plus the financial institution's added margin, compounding daily on revolving unpaid amounts.
+
+EMV chip technology utilizes dynamic cryptography to protect in-person card transactions against counterfeiting. When a chip card is inserted into a point-of-sale terminal, it generates a unique, single-use transaction code that cannot be reused.
+
+Chargebacks are dispute mechanisms initiated by cardholders through their issuing bank to reclaim funds from fraudulent or unauthorized transactions, as well as unfulfilled merchant services.
+
+Revolving credit lines allow borrowers to repeatedly utilize, repay, and reuse available credit limits up to a set maximum cap, provided they maintain timely minimum monthly payments.
+
+A checking account acts as the underlying repository for debit card funding, meaning all transactions depend entirely on liquid asset availability within that specific ledger.
+
+Credit limits are determined by issuers during underwriting based on credit history, debt-to-income ratios, annual revenue, and overall creditworthiness scores.
+
+Available credit represents the difference between the user's total credit limit and their current balance, determining the remaining capacity for new transactions.
+
+The grace period is the window of time between the end of a credit card billing cycle and the payment due date where no interest accumulates if paid in full.
+
+Minimum monthly payments represent the lowest amount a cardholder must pay by the due date to keep the account current and avoid late fees.
+
+A credit card statement balance reflects the total amount owed at the close of a billing cycle, capturing all posted charges, fees, and interest up to that date.
+
+Late payment fees are financial penalties assessed by issuers when a cardholder fails to submit at least the minimum required payment by the payment deadline.
+
+Credit utilization ratios measure the amount of revolving credit currently being used against the total available credit limit across all active lines.
+
+High credit utilization negatively affects credit scores, as credit reporting bureaus interpret high balances as an indicator of elevated financial risk.
+
+Cash advances permit credit cardholders to withdraw physical currency from an ATM or bank branch against their credit line, often incurring immediate interest.
+
+Cash advance APRs are typically significantly higher than standard purchase APRs, and these transactions do not benefit from a monthly grace period.
+
+Balance transfers allow consumers to migrate outstanding debt from one credit card issuer to another, frequently to take advantage of low promotional APR offers.
+
+Annual fees are recurring yearly charges levied by financial institutions for the privilege of maintaining premium credit cards with specialized perks.
+
+Foreign transaction fees are administrative surcharges assessed by issuers on transactions processed outside the cardholder's home country or currency.
+
+Secured credit cards require the cardholder to deposit a refundable cash sum that usually acts as the collateral and establishes the account credit limit.
+
+Prepaid cards are pre-loaded with a specific cash amount and are not linked to a bank account, separating them from standard debit infrastructure.
+
+Charge cards differ from credit cards because they require the consumer to pay the entire statement balance in full every month without revolving.
+
+Authorized users are individuals added to a primary account holder's credit card, granting them purchasing privileges without ultimate repayment liability.
+
+Joint bank accounts grant equal access permissions to multiple owners, allowing each individual to hold a separate debit card linked to one fund.
+
+Magnetic stripe technology relies on static data stored in magnetic bands, making older cards vulnerable to cloning via skimming devices.
+
+Near Field Communication (NFC) enables contactless transactions by transmitting encrypted card credentials across short radio frequencies to terminals.
+
+Tokenization replaces sensitive 16-digit card primary account numbers with randomized surrogate tokens to shield data during digital transactions.
+
+Virtual cards are temporary, software-generated credit or debit card numbers designed to isolate online transactions from physical card credentials.
+
+Card Verification Value (CVV) codes are three- or four-digit security numbers printed on cards to validate card-not-present online purchases.
+
+Dynamic CVV systems enhance security by continuously changing the security code via digital displays on the card or within a banking app.
+
+3D Secure (3DS) is an authentication protocol adding a verification layer (like OTPs) for online debit and credit card transactions.
+
+Billing cycles represent the recurring timeframe—typically spanning 28 to 31 days—during which card transactions are aggregated for statements.
+
+Merchant Category Codes (MCCs) are four-digit numbers assigned by card networks to categorize businesses based on the services or goods provided.
+
+Interchange fees are transaction settlement costs paid by a merchant's bank to the cardholder's issuing bank to cover processing risks.
+
+Cashback rewards operate by returning a small percentage of purchase totals back to the cardholder as statement statement credits or cash.
+
+Point-based loyalty programs reward consumers with proprietary currency based on spending tiers, redeemable for travel, merchandise, or gift cards.
+
+Co-branded credit cards are partnerships between issuers and specific brands, offering elevated reward yields when spent at the partner merchant.
+
+Zero liability policies are guarantees issued by major card networks protecting consumers from paying for unauthorized fraudulent transactions.
+
+Retrieval requests occur when an issuing bank demands original transaction documentation from a merchant to verify a cardholder's dispute.
+
+Card skimming involves illegal installation of tracking mechanisms on ATMs or gas pumps to harvest magnetic stripe data and PIN combinations.
+
+Card phishing utilizes deceptive communications like emails, text messages, or spoofed sites to trick cardholders into exposing credentials.
+
+Credit freezes restrict access to a consumer's credit report, blocking identity thieves from opening new card accounts under their name.
+
+Credit monitoring services scan credit bureau repositories continuously to alert users of changes, new inquiries, or potential card fraud.
+
+Card activation is the verification step required by new users to validate identity and open operational status before using a card.
+
+Expiration dates signify the final month and year a card remains valid, prompting issuers to distribute replacements prior to service breaks.
+
+Hard inquiries occur when financial institutions review credit profiles to make lending decisions, causing temporary credit score drops.
+
+Soft inquiries represent routine credit lookups for pre-qualification or account reviews that have no impact on a consumer's credit score.
+
+Overdraft protection links checking accounts to a savings account or credit line to cover debit card shortages, preventing transaction declines.
+
+Dynamic Currency Conversion (DCC) allows merchants abroad to invoice transactions in the cardholder’s home currency, often adding steep conversion markups.
